@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React.js and Node.js**
 
-- 👨‍💻 All of my projects are available at [https://swastideep-portfolioo.netlify.app/](https://swastideep-portfolioo.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://swastideepportfolio.vercel.app//](https://swastideepportfolio.vercel.app/)
 
 - 💬 Ask me about **Javascript,React,Next.js**
 
