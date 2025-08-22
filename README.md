@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swastideep Maharana</h1>
-<h3 align="center">Frontend Developer | React & Next.js Enthusiast | India 🇮🇳</h3>
+<h3 align="center">FullStack Developer |Frontend Developer | React & Next.js Enthusiast | India 🇮🇳</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swastideep-maharana&label=Profile%20views&color=0e75b6&style=flat" alt="swastideep-maharana" />
@@ -8,7 +8,7 @@
 ---
 
 - 🌱 Currently learning **React.js & Node.js**  
-- 👨‍💻 All my projects: [Portfolio](https://portfolioswatideep.vercel.app/)  
+- 👨‍💻 All my projects: [Portfolio](https://swastideep-portfolio.vercel.app/)  
 - 💬 Ask me about **JavaScript, React, Next.js**  
 - 📫 Reach me at **swastideep67maharana@gmail.com**  
 - 📄 [My Resume](https://drive.google.com/file/d/14zBdJDJI-MRxrpc59RG9VqBrMSAGvdrJ/view?usp=sharing)  
