@@ -4,10 +4,8 @@
 
 ### Full Stack Developer | Creating Pixel-Perfect Digital Experiences
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioswatideep.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swastideep-maharana-090158280/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/swastideep__/)
-[![Resume](https://img.shields.io/badge/Resume-View%20CV-FF5722?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/14zBdJDJI-MRxrpc59RG9VqBrMSAGvdrJ/view?usp=sharing)
 
 <img src="https://komarev.com/ghpvc/?username=swastideep-maharana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="swastideep-maharana" />
 
@@ -19,9 +17,9 @@
 
 I am a Full Stack Developer from India 🇮🇳 passionate about crafting intuitive, scalable digital products. My approach combines clean code architecture with pixel-perfect design.
 
-- 🔭 **Current Focus:** Building large-scale distributed systems and mastering 3D web visualizations.
+- 🔭 **Current Focus:** Building large-scale distributed systems and mastering advanced React patterns.
 - 💻 **Expertise:** React Ecosystem (Next.js), Node.js, and Cloud Infrastructure.
-- 💬 **Ask me about:** 3D Web Tech (Mapbox/Three.js), AI Integration, and Full Stack Architecture.
+- 💬 **Ask me about:** Frontend Architecture, React Performance, Next.js (SSR/CSR), and Full Stack Scalability.
 - 📫 **Contact:** [swastideep67maharana@gmail.com](mailto:swastideep67maharana@gmail.com)
 
 ---
