@@ -1,55 +1,74 @@
-<h1 align="center">Hi 👋, I'm Swastideep Maharana</h1>
-<h3 align="center">FullStack Developer |Frontend Developer | React & Next.js Enthusiast | India 🇮🇳</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swastideep-maharana&label=Profile%20views&color=0e75b6&style=flat" alt="swastideep-maharana" />
-</p>
+# Hi there, I'm Swastideep Maharana 👋
+
+### Full Stack Developer | Creating Pixel-Perfect Digital Experiences
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolioswatideep.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swastideep-maharana-090158280/)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/swastideep__/)
+[![Resume](https://img.shields.io/badge/Resume-View%20CV-FF5722?style=for-the-badge&logo=google-drive)](https://drive.google.com/file/d/14zBdJDJI-MRxrpc59RG9VqBrMSAGvdrJ/view?usp=sharing)
+
+<img src="https://komarev.com/ghpvc/?username=swastideep-maharana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="swastideep-maharana" />
+
+</div>
 
 ---
 
-- 🌱 Currently learning **React.js & Node.js**  
-- 👨‍💻 All my projects: [Portfolio](https://swastideep-portfolio.vercel.app/)  
-- 💬 Ask me about **JavaScript, React, Next.js**  
-- 📫 Reach me at **swastideep67maharana@gmail.com**  
-- 📄 [My Resume](https://drive.google.com/file/d/14zBdJDJI-MRxrpc59RG9VqBrMSAGvdrJ/view?usp=sharing)  
-- ⚡ Fun fact: **I’m a Gamer 🎮**  
+### 🚀 About Me
+
+I am a Full Stack Developer from India 🇮🇳 passionate about crafting intuitive, scalable digital products. My approach combines clean code architecture with pixel-perfect design.
+
+- 🔭 **Current Focus:** Building large-scale distributed systems and mastering 3D web visualizations.
+- 💻 **Expertise:** React Ecosystem (Next.js), Node.js, and Cloud Infrastructure.
+- 💬 **Ask me about:** 3D Web Tech (Mapbox/Three.js), AI Integration, and Full Stack Architecture.
+- 📫 **Contact:** [swastideep67maharana@gmail.com](mailto:swastideep67maharana@gmail.com)
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/swastideep-maharana-090158280/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+### 📂 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[UrbanTwin](https://urban-twin.vercel.app/)** | 🏙️ **Intelligent Urban Visualization**<br>Transforms static maps into volumetric 3D digital twins with realistic terrain and AI insights. | `Next.js` `TypeScript` `Mapbox GL` |
+| **[Pixxel-AI](https://pixxel-ai-image-editor.vercel.app/)** | 🎨 **AI Image Editor**<br>A cutting-edge editor for AI-powered image enhancement, background removal, and transformation. | `React` `Node.js` `MongoDB` |
+| **[StoreIt](https://storelt-drive.vercel.app/sign-in)** | ☁️ **Storage Management Solution**<br>A Google Drive alternative to upload, share, and manage documents with secure OTP login. | `Next.js` `TypeScript` `Appwrite` |
+| **[AI Tutor](https://ai-voice-agent-interview-prep-4ztc.vercel.app)** | 🎓 **Voice-Enabled Learning Companion**<br>An adaptive learning platform offering personalized tutoring via voice interaction. | `Next.js` `TypeScript` `OpenAI` |
+| **[ChatterBox](https://chatterbox-1qmd.onrender.com)** | 💬 **Real-time Chat App**<br>Supports individual and group conversations with instant notifications and message history. | `React` `Node.js` `MongoDB` |
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend & Design**
+<br>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+
+**Backend & Infrastructure**
+<br>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+<img src="https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white" />
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+
+<a href="https://github.com/swastideep-maharana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastideep-maharana&show_icons=true&locale=en&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" height="150" />
 </a>
-<a href="https://www.instagram.com/swastideep__/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<br/>
+<br/>
+<a href="https://github.com/swastideep-maharana">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=swastideep-maharana&show_icons=true&locale=en&theme=transparent&hide_border=true" alt="GitHub Stats" />
 </a>
-</p>
 
----
-
-<h3 align="left">🛠 Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 
-  <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
-  <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-</p>
-
----
-
-<h3 align="left">📊 GitHub Stats:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=swastideep-maharana&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swastideep-maharana&show_icons=true&locale=en" alt="GitHub Stats" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swastideep-maharana&" alt="GitHub Streak" /></p>
+</div>
