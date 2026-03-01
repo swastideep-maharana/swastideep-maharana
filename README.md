@@ -5,7 +5,7 @@
 ### Full Stack Developer | Creating Pixel-Perfect Digital Experiences
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/swastideep-maharana-090158280/)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/swastideep__/)
+
 
 <img src="https://komarev.com/ghpvc/?username=swastideep-maharana&label=Profile%20Views&color=0e75b6&style=flat-square" alt="swastideep-maharana" />
 
